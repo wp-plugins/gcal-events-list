@@ -5,7 +5,7 @@ Requires at least: 3.0.1
 Tested up to: 3.0.1
 Stable tag: 0.1
 
-GCal Events List retrieve future events from a public Google Calendar and shows data in a widget.
+GCal Events List retrieves future events from a public Google Calendar and shows data in a widget.
 
 == Description ==
 
